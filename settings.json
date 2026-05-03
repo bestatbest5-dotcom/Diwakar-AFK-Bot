@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Unstablekasturi.aternos.me",
+    "port": 43480,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -31,8 +31,8 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
-        "I like to play Minecraft!"
+        "follow fatal.error127 on insta",
+        "I like deep"
       ]
     },
     "chat-log": true,
